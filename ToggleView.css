@@ -1,0 +1,32 @@
+#Toggle{
+	width: 100px;
+	height: 20px;
+	border: 1px solid black;
+	border-top-left-radius: 20%;
+	border-top-right-radius: 20%;
+	border-bottom-left-radius: 20%;	
+	border-bottom-right-radius: 20%;
+	
+	position: absolute;
+	top: 20%;
+	left: 40%;
+}
+#button{
+	position: relative;
+
+	background-color: black;
+	width: 10%;
+	height:90%;
+	border: 0.5px solid black;
+	border-radius: 50%;
+
+}
+#button:hover{
+	cursor: pointer;
+}
+#Jquery{
+	position: absolute;
+	top:30%;
+	left: 35%;
+
+}
